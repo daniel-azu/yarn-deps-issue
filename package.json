@@ -6,7 +6,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "packageManager": "yarn@3.4.1",
+  "packageManager": "yarn@3.2.0",
   "installConfig": {
     "hoistingLimits": "dependencies"
   }
