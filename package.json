@@ -1,0 +1,13 @@
+{
+  "name": "temppack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.4.1",
+  "installConfig": {
+    "hoistingLimits": "dependencies"
+  }
+}
